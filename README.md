@@ -1,5 +1,7 @@
 # CarND-P1 Finding Lane Line 
 
+## Description
+
 **This is my 1st project result of Udacity self-driving car nanodegree.**
 
 * Udacity self-driving car nanodegree (CarND) :

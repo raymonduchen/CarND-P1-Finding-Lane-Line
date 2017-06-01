@@ -17,12 +17,12 @@ The goals / steps of this project are the following:
 
 * The two videos to be processed :
 
-Here's a [link to 1st video to be processed](./solidWhiteRight.mp4) and a [link to 2nd video to be processed](./solidYellowLeft.mp4)
+  Here's a [link to 1st video to be processed](./solidWhiteRight.mp4) and a [link to 2nd video to be processed](./solidYellowLeft.mp4)
 
 
 * The lane line detected result videos :
 
-Here's a [link to 1st processed video](./white_final.mp4) and a [link to 2nd processed video](./yellow_final.mp4)
+  Here's a [link to 1st processed video](./white_final.mp4) and a [link to 2nd processed video](./yellow_final.mp4)
 
 
 ---

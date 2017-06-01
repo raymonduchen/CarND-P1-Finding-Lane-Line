@@ -8,6 +8,14 @@
 
   https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013
 
+[//]: # (Image References)
+
+[image1]: ./output_images/gray.png "Grayscale"
+[image2]: ./output_images/gaussian.png "Gaussian"
+[image3]: ./output_images/canny.png "Canny"
+[image4]: ./output_images/polyroi.png "polyroi"
+[image5]: ./output_images/hough_annotate.png "hough_annotate"
+
 
 ### Lane line detection pipeline 
 

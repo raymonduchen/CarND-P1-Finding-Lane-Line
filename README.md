@@ -15,6 +15,20 @@
 [image3]: ./output_images/canny.png "Canny"
 [image4]: ./output_images/polyroi.png "polyroi"
 [image5]: ./output_images/hough_annotate.png "hough_annotate"
+ 
+The full code is in IPython notebook "./lane_lines_final.ipynb". 
+
+The two videos to be processed are :
+
+[Video 1](./solidWhiteRight.mp4)
+
+[Video 2](./solidYellowLeft.mp4)
+
+The lane line detected results are :
+
+[Result 1](./white_final.mp4)
+
+[Result 2](./yellow_final.mp4)
 
 
 ### Lane line detection pipeline 
